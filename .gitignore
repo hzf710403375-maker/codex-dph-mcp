@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.DS_Store
+.tools/
+.runtime/
+.release/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.log
+# Local project evidence and private development records.
+artifacts/
+docs/private/
+docs/superpowers/plans/
